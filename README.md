@@ -1,6 +1,6 @@
 👋 Hi, I’m @lalitjakhar
 
-🌱 I’m currently learning HTML, JAVASCRIPT, CSS, REACT
+🌱 I’m currently learning HTML, JAVASCRIPT, CSS, REACT, BOOTSTRAP, NEXTJS
 
 🎦 All of my projects are available at https://github.com/lalitjakhar
 
