@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=1000&color=61F7C3&background=29FF1F00&width=690&height=52&lines=Hi%2C+I'm+Lalit+Jakhar+-+Crafting+Dynamic+Frontend+Experiences+%F0%9F%9A%80" alt="Typing SVG" /></a>
-<h3 align="left">🎨 Passionate Frontend Developer | Turning Ideas into Interactive Realities 🌟</h3>
+<h2 align="left">🎨 Passionate Frontend Developer | Turning Ideas into Interactive Realities 🌟</h2>
 
 🌱 **Currently Exploring**
 - Web Development
