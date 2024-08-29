@@ -1,32 +1,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=1000&color=61F7C3&background=29FF1F00&width=690&height=52&lines=Hi%2C+I'm+Lalit+Jakhar+-+Crafting+Dynamic+Frontend+Experiences+%F0%9F%9A%80" alt="Typing SVG" /></a>
 <h3 align="left">🎨 Passionate Frontend Developer | Turning Ideas into Interactive Realities 🌟</h3>
+- 🌱 I'm currently diving deep into **Web Development**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitjakhar&label=Profile%20views&color=0e75b6&style=flat" alt="lalitjakhar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitjakhar" alt="lalitjakhar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **react js**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Next.js, Tailwind CSS, Bootstrap, Material UI.**
 
 - 📫 How to reach me **lalit25jakhar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lalit-jakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-jakhar" height="40" width="50" /></a>
-<a href="https://instagram.com/lalit_choudhary25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalit_choudhary25" height="40" width="50" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> </p>
+<table> <tr> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/> <br>HTML5 </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/> <br>CSS3 </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> <br>JavaScript </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/> <br>React </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48"/> <br>Tailwind CSS </td> </tr> <tr> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48"/> <br>Bootstrap </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="48" height="48"/> <br>Material UI </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" height="48"/> <br>Next.js </td> </tr> </table>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=lalitjakhar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" width="150" height="30" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=lalitjakhar&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lalitjakhar&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitjakhar&theme=radical" alt="Streak Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitjakhar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://linkedin.com/in/lalit-jakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a> <a href="https://instagram.com/lalit_choudhary25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a> </p>
 
 <h3 align="left">Support:</h3>
-<p align="left"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/lalitjakhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/lalitjakhar" /></a></p><br><br>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitjakhar&show_icons=true&locale=en&layout=compact" alt="lalitjakhar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitjakhar&show_icons=true&locale=en" alt="lalitjakhar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitjakhar&" alt="lalitjakhar" /></p>
+<p align="left"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/lalitjakhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/lalitjakhar" /></a></p>
