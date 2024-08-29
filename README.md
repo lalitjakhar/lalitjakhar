@@ -18,6 +18,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=lalitjakhar&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lalitjakhar&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitjakhar&theme=radical" alt="Streak Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitjakhar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lalitjakhar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/lalit-jakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a> <a href="https://instagram.com/lalit_choudhary25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a> </p>
 
