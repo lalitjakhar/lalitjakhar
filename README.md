@@ -11,44 +11,41 @@
 - Email: lalit25jakhar@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
-      <br>HTML5
-    </td>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
-      <br>CSS3
-    </td>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/>
-      <br>React
-    </td>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48"/>
-      <br>Tailwind CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="48" height="48"/>
-      <br>Material UI
-    </td>
-    <td align="center" width="120" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" height="48"/>
-      <br>Next.js
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
+    <br>HTML5
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
+    <br>CSS3
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+    <br>JavaScript
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/>
+    <br>React
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48"/>
+    <br>Tailwind CSS
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48"/>
+    <br>Bootstrap
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="48" height="48"/>
+    <br>Material UI
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" height="48"/>
+    <br>Next.js
+  </div>
+</div>
+
 
 
 <p align="left"> 
