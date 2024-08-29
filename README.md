@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF73D&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lalit+Jakhar" alt="Typing SVG" /></a>
-<h3 align="left">A passionate Frontend Developer from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=27&pause=1000&color=61F7C3&background=29FF1F00&width=435&lines=Hi%2C+I'm+Lalit+Jakhar+-+Crafting+Dynamic+Frontend+Experiences+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<h3 align="left">🎨 Passionate Frontend Developer | Turning Ideas into Interactive Realities 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitjakhar&label=Profile%20views&color=0e75b6&style=flat" alt="lalitjakhar" /> </p>
 
